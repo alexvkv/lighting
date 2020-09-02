@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lighting-api", "lighting-api\lighting-api.csproj", "{3A75A1B5-4B7E-425E-AE45-C3A73E3D0708}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A75A1B5-4B7E-425E-AE45-C3A73E3D0708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A75A1B5-4B7E-425E-AE45-C3A73E3D0708}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A75A1B5-4B7E-425E-AE45-C3A73E3D0708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A75A1B5-4B7E-425E-AE45-C3A73E3D0708}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D034F25E-CBEC-4A97-9C3F-2A721539FF8C}
+	EndGlobalSection
+EndGlobal
